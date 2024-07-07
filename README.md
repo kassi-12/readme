@@ -4,19 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abderrahmane+Kassimi!;" />
 </h1>
 
-<h3 align="center">A Junior DevOps from Morocco 🇲🇦</h3>
+<h3 align="center">A passionate software developer from Morocco 🇲🇦</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **various software development projects**
+ 🔭 I’m currently working on **a marketplace**
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Python, C, C++, HTML, CSS, JavaScript, PHP, MySQL, Oracle, Microsoft SQL Server, Bash scripting... or anything [here](https://github.com/kassi-12/kassi-12/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/kassi-12/kassi-12/issues)**
 
-⚡ Fun fact **I enjoy traveling, e-sports, and cooking**
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
@@ -27,8 +27,8 @@
   <a href="https://linkedin.com/in/abderrahmane-kassimi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/kassi-12" target="_blank">
-     <img src="https://img.shields.io/badge/Github-FF5722?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  <a href="https://kassi-12.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
@@ -37,7 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,javascript,php,mysql,oracle,sqlserver,bash,vscode,git,github,vmware,azure" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,azure" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
 <br/>
@@ -46,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kassi-12/kassi-12/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
